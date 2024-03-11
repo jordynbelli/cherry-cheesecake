@@ -1,4 +1,4 @@
-#Task 2, Question 2: Your Mood Today
+#Task 2, Question 1: Your Mood Today
 print("How do you feel today?")
 mood = "happy"
 
