@@ -1,6 +1,6 @@
 #Task 2, Question 2: Your Mood Today
 print("How do you feel today?")
-mood = "excited"
+mood = "happy"
 
 if mood == "happy":
     print("That's great to hear!")
