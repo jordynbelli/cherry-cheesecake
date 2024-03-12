@@ -4,7 +4,7 @@ userAge = 25
 user_location = "New York"
 MAXLIMIT = 1000
 # Task 2, Question 3: Code Correction Continued
-variable_a = "Hello, World!"
-variable_b = 23
+print("Hello, World")
+number = 23
 variable_c = 3.14
 variable_d = True
