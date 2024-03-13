@@ -9,4 +9,8 @@ print(1.99 + 0.98 + 4.99)
 bank_balance = 1300
 yearly_interest = 9
 print(bank_balance * yearly_interest)
-
+# Task 3, Question 5: Area and Perimeter
+rectangle_length = 10
+rectange_width = 5
+print(rectangle_length * rectange_width)
+print(rectangle_length + rectange_width)
