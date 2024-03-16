@@ -6,11 +6,6 @@ la_croix_price = 4.99
 result = 1.99 + 0.98 + 4.99
 print(1.99 + 0.98 + 4.99)
 # Task 2, Question 5: Bank Interest
-bank_balance = 1300
-yearly_interest = 9
+bank_balance = 10000
+yearly_interest = .07
 print(bank_balance * yearly_interest)
-# Task 3, Question 5: Area and Perimeter
-rectangle_length = 10
-rectange_width = 5
-print(rectangle_length * rectange_width)
-print(rectangle_length + rectange_width)
