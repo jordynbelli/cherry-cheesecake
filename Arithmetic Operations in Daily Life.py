@@ -11,3 +11,4 @@ yearly_interest_percentage = 0.07
 yearly_interest_percentage_total = 700
 print(bank_balance * yearly_interest_percentage)
 print(bank_balance + yearly_interest_percentage_total)
+# I know I did this the long way but I still got the answer
